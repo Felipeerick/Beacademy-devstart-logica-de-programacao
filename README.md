@@ -2,7 +2,7 @@
 
 ## Exercícios
 
-[Exercício 0](exercício_0.por)
+[Exercício 0](#exercício_0.por)
 
 [Exercício 1](../../Exercício_1.por)
 
